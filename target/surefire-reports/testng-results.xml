@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="3" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Package1.TestTask" duration-ms="21157" started-at="2021-07-27T02:17:39 EDT" finished-at="2021-07-27T02:18:00 EDT">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="21157" started-at="2021-07-27T02:17:39 EDT" finished-at="2021-07-27T02:18:00 EDT">
+      <class name="Package1.TestTask">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:Package1.TestTask@56235b8e]" name="beforeClass" is-config="true" duration-ms="702" started-at="2021-07-27T02:17:39 EDT" finished-at="2021-07-27T02:17:39 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Package1.TestTask@56235b8e]" name="setUp" is-config="true" duration-ms="2290" started-at="2021-07-27T02:17:39 EDT" finished-at="2021-07-27T02:17:42 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="seleniumTest2()[pri:1, instance:Package1.TestTask@56235b8e]" name="seleniumTest2" duration-ms="11316" started-at="2021-07-27T02:17:42 EDT" finished-at="2021-07-27T02:17:53 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seleniumTest2 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Package1.TestTask@56235b8e]" name="tearDown" is-config="true" duration-ms="774" started-at="2021-07-27T02:17:53 EDT" finished-at="2021-07-27T02:17:54 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Package1.TestTask@56235b8e]" name="setUp" is-config="true" duration-ms="1358" started-at="2021-07-27T02:17:54 EDT" finished-at="2021-07-27T02:17:55 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="seleniumTest1()[pri:2, instance:Package1.TestTask@56235b8e]" name="seleniumTest1" duration-ms="3960" started-at="2021-07-27T02:17:55 EDT" finished-at="2021-07-27T02:17:59 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seleniumTest1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Package1.TestTask@56235b8e]" name="tearDown" is-config="true" duration-ms="683" started-at="2021-07-27T02:17:59 EDT" finished-at="2021-07-27T02:18:00 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Package1.TestTask -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Package1.TestTask -->
+</testng-results>
